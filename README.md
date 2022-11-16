@@ -22,14 +22,14 @@ the cleaning script.
 
 -> under the "Other files types options" select "Text (Tab delimited) (.txt)" 
 
-    ^ this is extreamly important since the tab delimited system is required to parse and process the data into the cleaning script.
+    this is extreamly important since the tab delimited system is required to parse and process the data into the cleaning script.
 -> the output from the Excel convertion will be a .txt file.
 
 -> open and execute the python script and select the converted .txt file
 
 -> the script will clean the input file and create a new file called "cleaned_data_set (alt-script).csv"
 
-    ^ keep in mind that if there is a .csv file called "cleaned_data_set (alt-script).csv", the python script will not overide it. 
+    keep in mind that if there is a .csv file called "cleaned_data_set (alt-script).csv", the python script will not overide it. 
     
 
 *Remember to write your cleaning rules in the given script section*
