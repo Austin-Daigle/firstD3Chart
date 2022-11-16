@@ -6,7 +6,7 @@ The webpage with the compiled plolty d3.js charts can be found [here](https://d3
 
 # [The counted Cleaning Script](https://github.com/Austin-Daigle/firstD3Chart/blob/main/The%20Counted%20Cleaning%20Script/The%20Counted%20Cleaning%20Script.py) (Look Here if you are using "the counted 2015" or "the counted 2016")
 
-# Important Usage Notes:
+**Important Usage Notes:**
 
 Before executing this Python script, be sure to get your "the counted 2015" and "the counted 2016" data properly prepared and converted before loading it into
 the cleaning script. 
