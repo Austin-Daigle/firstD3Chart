@@ -13,7 +13,7 @@ the cleaning script.
 
 **Process to prepare the file:**
 
-Take the .csv file and open it using Excel 
+-> Take the .csv file and open it using Excel 
 -> select the "File" tab in the ribbon 
 
 -> select "Export" from the option side ribbon
