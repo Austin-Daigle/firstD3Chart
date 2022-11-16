@@ -4,7 +4,7 @@ This repo contain the raw Washington Post dataset, cleaned data set, automated P
 The primary dataset for this project can be found [here](https://github.com/washingtonpost/data-police-shootings/tree/master/v1).
 The webpage with the compiled plolty d3.js charts can be found [here](https://d3demopage.wixsite.com/fatal-police-shootin)
 
-# The counted Cleaning Script (Look Here if you are using "the counted 2015" or "the counted 2016")
+# [The counted Cleaning Script](https://github.com/Austin-Daigle/firstD3Chart/blob/main/The%20Counted%20Cleaning%20Script/The%20Counted%20Cleaning%20Script.py) (Look Here if you are using "the counted 2015" or "the counted 2016")
 
 # Important Usage Notes:
 
