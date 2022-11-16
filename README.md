@@ -11,7 +11,7 @@ The webpage with the compiled plolty d3.js charts can be found [here](https://d3
 Before executing this Python script, be sure to get your "the counted 2015" and "the counted 2016" data properly prepared and converted before loading it into
 the cleaning script. 
 
-# Process to prepare the file:
+ Process to prepare the file:
 
 Take the .csv file and open it using Excel 
 -> select the "File" tab in the ribbon 
