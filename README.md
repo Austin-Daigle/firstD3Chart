@@ -6,7 +6,9 @@ The webpage with the compiled plolty d3.js charts can be found [here](https://d3
 
 **All of the compiled data and d3.js graphs can be found on this demonstration [website](https://d3demopage.wixsite.com/fatal-police-shootin)**
 
+<br></br>
 **Washing Post Police Shooting Cleaning Script Instructions**
+
 --> Download the v.1 Dataset from either the source [Github repo](https://github.com/washingtonpost/data-police-shootings/tree/master/v1) or the [project directory](https://github.com/Austin-Daigle/firstD3Chart/blob/main/fatal-police-shootings-data.csv)
 
 --> Use the Python script to select the correct dataset from the filechooser and allow the script to return a cleaned dataset (you may need to adjust or code the cleaning rules if you have not already taken care of that). 
