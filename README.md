@@ -6,6 +6,8 @@ The webpage with the compiled plolty d3.js charts can be found [here](https://d3
 
 **All of the compiled data and d3.js graphs can be found on this demonstration [website](https://d3demopage.wixsite.com/fatal-police-shootin)**
 
+
+<br></br>
 # [The counted Cleaning Script](https://github.com/Austin-Daigle/firstD3Chart/blob/main/The%20Counted%20Cleaning%20Script/The%20Counted%20Cleaning%20Script.py) (Look Here if you are using "the counted 2015" or "the counted 2016")
 
 
